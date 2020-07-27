@@ -1,9 +1,0 @@
-.vscode/ 
-.env
-db.sqlite3
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
-seed_data.json 
