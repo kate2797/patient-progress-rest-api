@@ -10,3 +10,7 @@ There are two end points that are publicly available.
 
 - **GET** Patients End Point `api/patients`
 - **GET** Patient Detail `api/patients/<nhs_number>`
+
+# Database Schema
+
+![Database Schema](images/db.png)
