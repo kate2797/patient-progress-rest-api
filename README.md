@@ -8,7 +8,5 @@ Our application was designed to use the existing data from NHS in order to creat
 
 There are two end points that are publicly available.
 
-- GET Patients End Point –> api/patients
-- GET Patient Detail -> api/patients/<nhs_number>
-
-`<addr>`
+- GET Patients End Point `<api/patients>`
+- GET Patient Detail -> `<api/patients/<nhs_number>>`
