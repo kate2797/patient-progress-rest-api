@@ -8,7 +8,7 @@ The Patient Progress REST API has no HTML interface and returns raw JSON data. T
 
 # Use
 
-There are two end points that are publicly available.
+The API has two publicly available end points:
 
 - **GET** Patients End Point `api/patients`
 - **GET** Patient Detail `api/patients/<nhs_number>`
