@@ -15,9 +15,8 @@ There are two end points that are publicly available.
 
 # Preview
 
-<img src="images/preview.gif" height="100%" />
+<img src="images/preview.gif" height="100%" alt="Patient Progress demo preview"/>
 
 # Database Schema
 
-![Database Schema](images/db.png)
-<img src="images/db-schema.png" />
+<img src="images/db-schema.png" alt="Database schema" />
