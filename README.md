@@ -1,8 +1,8 @@
 # Patient Progress REST API 🚑
 
-REST API to React Native project for CFG Hack from Home 2020 Hackathon. Patient Progress is an app that would automate the process of updating the emergency contacts of a patient with the development of the patient in quarantine.
+This REST API powers the backend side of the Patient Progress application which frontend written in JavaScript (React Native). Patient Progress was created during a month-long CFG Hack from Home 2020 Hackathon and it is an app that automates the process of updating emergency contacts of a patient via an interactive real-time feed.
 
-Our application was designed to use the existing data from NHS in order to create an interactive feed. However, for our demo, this REST API is meant to serve this purpose.
+Patient Progress was designed with the assumption that the medical data will be collected from existing NHS APIs and displayed on the interactive feed. However, for our hackathon demo, we made use of the Patient Progress REST API.
 
 # Use
 
@@ -12,6 +12,8 @@ There are two end points that are publicly available.
 - **GET** Patient Detail `api/patients/<nhs_number>`
 
 # Preview
+
+The Patient Progress REST API has no HTML interface and returns raw JSON data. That's kind of boring but you can check out preview of the demo down below.
 
 <img src="images/preview.gif" height="100%" />
 
