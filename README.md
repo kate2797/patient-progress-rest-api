@@ -20,3 +20,4 @@ There are two end points that are publicly available.
 # Database Schema
 
 ![Database Schema](images/db.png)
+<img src="images/db-schema.png" height="60%" />
