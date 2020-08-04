@@ -1,4 +1,4 @@
-# Patient Progress REST API 🚑
+# Patient Progress REST API 👩‍⚕️
 
 This REST API written in Python powers the backend side of the Patient Progress application (frontend was developed using JavaScript, React Native). Patient Progress was created during a month-long CFG Hack from Home 2020 Hackathon and it is an app that automates the process of updating emergency contacts of a patient via an interactive real-time feed.
 
