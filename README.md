@@ -4,7 +4,7 @@ This REST API written in Python powers the backend side of the Patient Progress 
 
 Patient Progress was designed with the assumption that the medical data will be collected from existing NHS APIs and displayed on the interactive feed. However, for our hackathon demo, we made use of the Patient Progress REST API.
 
-The Patient Progress REST API has no HTML interface and returns raw JSON data. That's kind of boring but you can check out preview of the demo down below.
+The Patient Progress REST API has no HTML interface and returns raw JSON data. That is kind of boring but you can check out the API-powered feed in action down below 👇.
 
 # Use
 
