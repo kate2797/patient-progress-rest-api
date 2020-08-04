@@ -17,6 +17,7 @@ The API has two publicly available end points:
 
 - Python
 - Django and Django REST
+- PostgreSQL
 - Heroku (Free Tier)
 
 # Preview
