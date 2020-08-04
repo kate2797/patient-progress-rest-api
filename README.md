@@ -4,6 +4,8 @@ This REST API powers the backend side of the Patient Progress application which 
 
 Patient Progress was designed with the assumption that the medical data will be collected from existing NHS APIs and displayed on the interactive feed. However, for our hackathon demo, we made use of the Patient Progress REST API.
 
+The Patient Progress REST API has no HTML interface and returns raw JSON data. That's kind of boring but you can check out preview of the demo down below.
+
 # Use
 
 There are two end points that are publicly available.
@@ -12,8 +14,6 @@ There are two end points that are publicly available.
 - **GET** Patient Detail `api/patients/<nhs_number>`
 
 # Preview
-
-The Patient Progress REST API has no HTML interface and returns raw JSON data. That's kind of boring but you can check out preview of the demo down below.
 
 <img src="images/preview.gif" height="100%" />
 
