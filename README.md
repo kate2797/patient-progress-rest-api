@@ -11,6 +11,10 @@ There are two end points that are publicly available.
 - **GET** Patients End Point `api/patients`
 - **GET** Patient Detail `api/patients/<nhs_number>`
 
+# Preview
+
+<img src="images/preview.gif" height="100%" />
+
 # Database Schema
 
 ![Database Schema](images/db.png)
