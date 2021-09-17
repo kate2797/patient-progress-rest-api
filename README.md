@@ -22,4 +22,4 @@ The API has two publicly available end points:
 <img src="images/preview.gif" height="100%" alt="Patient Progress demo preview"/>
 
 ## Database Schema
-<img src="images/db-schema.png" alt="Database schema" />
+<img src="images/db-schema.png" alt="Database schema" width="80%"/>
