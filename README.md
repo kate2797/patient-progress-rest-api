@@ -18,7 +18,7 @@ The API has two publicly available end points:
 - Heroku (Free Tier)
 
 ## Preview
-<img src="images/preview.gif" width="40%" alt="Patient Progress demo preview"/>
+<img src="images/preview.gif" width="80%" alt="Patient Progress demo preview"/>
 
 ## Database Schema
 <img src="images/db-schema.png" alt="Database schema" width="80%"/>
